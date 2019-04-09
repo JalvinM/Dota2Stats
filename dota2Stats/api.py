@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = 'CC2AA1384BF4FE43CBDA81DF4D992B37'
+API_KEY = 'xxxxxxxxxxxxxxxxxxxxx'
 BASE_URL = 'http://api.steampowered.com'
 RETRIES = 10
 
