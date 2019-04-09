@@ -3,7 +3,7 @@ from Api import api
 MY_ID = '28256361'
 
 def get_match_hist():
-    return api.do_get('IDOTA2Match_570/GetMatchHistory/v001/',{})
+    return api.do_get('IDOTA2Match_570/GetMatchHistory/V001/',{})
 
 def get_match_hist_acc(accid):
     return api.do_get('IDOTA2Match_570/GetMatchHistory/v001/',{'account_id': accid})
