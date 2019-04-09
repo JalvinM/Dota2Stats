@@ -1,7 +1,7 @@
 import requests
 
-API_KEY = 'xxxxxxxxxxxxxxxxxxxxx'
-BASE_URL = 'http://api.steampowered.com'
+API_KEY = 'CC2AA1384BF4FE43CBDA81DF4D992B37'
+BASE_URL = 'http://Api.steampowered.com'
 RETRIES = 10
 
 def build_url(path):
